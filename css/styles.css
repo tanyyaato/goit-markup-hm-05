@@ -586,10 +586,11 @@ border: none;
 .subscribe-btn:hover{
   background-color: #404BBF;
 }
-.button-send-svg {
+.subscribe-btn span{
   fill:#fff;
-  align-items: baseline;
 }
+
+
 /* -------------------------------- */
 .backdrop {
   position: fixed;
