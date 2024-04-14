@@ -566,10 +566,10 @@ color: #fff;
 outline: transparent;
 }
 
-.email::placeholder{
+.form-email::placeholder{
   font-family: inherit;
   font-size: 12px;
-    line-height: 2;
+    line-height: 2px;
     letter-spacing: 0.04em;
     color: #fff;
 }
